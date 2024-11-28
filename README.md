@@ -29,3 +29,7 @@ wasmedge --dir .:. \
 ### Create a Vector Database for External Knowledge
 #### The output of curl 'http://localhost:6333/collections/chemistry' and a zip file containing the snapshot from the chemistry collection.
 ![Screenshot from 2024-11-28 12-24-57](https://github.com/user-attachments/assets/df055a9d-a390-40ff-80d5-5d92865f25ba)
+### Improve the Vector Collection for Longer Context Windows
+#### The chemistry.csv file you generated. The output of curl 'http://localhost:6333/collections/chemistry'. A zip file containing the snapshot from the chemistry collection.
+![Screenshot from 2024-11-28 12-24-57](https://github.com/user-attachments/assets/908b03e1-fd5c-44d6-8fbb-2388c9b92548)
+
