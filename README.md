@@ -33,4 +33,10 @@ wasmedge --dir .:. \
 #### The chemistry.csv file you generated. The output of curl 'http://localhost:6333/collections/chemistry'. A zip file containing the snapshot from the chemistry collection.
 ![Screenshot from 2024-11-28 12-24-57](https://github.com/user-attachments/assets/908b03e1-fd5c-44d6-8fbb-2388c9b92548)
 ### Start an RAG API Server
+#### Use the API to ask a chemistry question and get an answer and API server log that shows the user question, vector search results, and the updated prompt
+### Create a Web-based Chatbot
+#### The publicly accessible chatbot URL and a screenshot of the chatbot UI showing a relevant conversation
+![Screenshot from 2024-11-28 16-11-25](https://github.com/user-attachments/assets/f82c3d33-4350-497b-8546-971f04aa0c15)
+### Create a Discord Bot
+#### An invite link to the Discord server that is hosting the bot and a screenshot of the Discord bot showing a relevant conversation
 
