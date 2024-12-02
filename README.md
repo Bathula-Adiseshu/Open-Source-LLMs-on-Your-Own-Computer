@@ -43,7 +43,13 @@ wasmedge --dir .:. \
 ## Fine-Tune the Llama Model
 ### Create the Training Dataset
 #### The politics.txt file you created with news headlines. The finetune.json dataset you created for the Alpaca template. A link to the public Hugging Face Dataset repo for your finetune.json data file
+Public Hugging Face Dataset repo: https://huggingface.co/datasets/bas369/3_finetune
 ### Fine-tune the Model
 #### A shared link to the notebook you used to fine-tune the LLM. The Hugging Face model repo for the final product.
+Co lab Notebook link: https://colab.research.google.com/#fileId=https%3A//huggingface.co/juntaoyuan/validate_chemistry_question/blob/main/Llama_3_1_8b_%2B_Unsloth_finetuning.ipynb
+Hugging Face model Repo: https://huggingface.co/bas369/finetune_model/tree/main
 ### Run an inference API server for the fine-tuned model
 #### The publicly accessible chatbot URL. A screenshot of the chatbot UI showing a relevant conversation
+url: https://0xa9f7efaa07879d7e3276e8626852de6758bd0321.gaianet.network
+![Screenshot from 2024-12-02 15-04-23](https://github.com/user-attachments/assets/fed0625c-2f4d-4a5f-935c-460146c872ff)
+
