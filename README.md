@@ -40,3 +40,10 @@ wasmedge --dir .:. \
 ### Create a Discord Bot
 #### An invite link to the Discord server that is hosting the bot and a screenshot of the Discord bot showing a relevant conversation
 
+## Fine-Tune the Llama Model
+### Create the Training Dataset
+#### The politics.txt file you created with news headlines. The finetune.json dataset you created for the Alpaca template. A link to the public Hugging Face Dataset repo for your finetune.json data file
+### Fine-tune the Model
+#### A shared link to the notebook you used to fine-tune the LLM. The Hugging Face model repo for the final product.
+### Run an inference API server for the fine-tuned model
+#### The publicly accessible chatbot URL. A screenshot of the chatbot UI showing a relevant conversation
